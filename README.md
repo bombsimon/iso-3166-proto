@@ -8,7 +8,7 @@ country codes. The codes are generated from [IBAN].
 There is no automatic generation of codes but the crate in this repository can be used to manually generate new codes whenever needed.
 
 ```sh
-cargo run > iso-3166.proto
+cargo run > v1/iso-3166.proto
 ```
 
 ## Using the proto
